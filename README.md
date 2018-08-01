@@ -7,18 +7,18 @@ Plantilla para iniciar maquetados con Bootstrap4 - Font Awesome 4.7
 
 > git clone https://github.com/jplantes/Plantilla-html-Bootstrap4-FontAwesome4.7.git
 
-##2.- Renombra la plantilla
+## 2.- Renombra la plantilla
 
 > cp -f plantilla.html index.html
 
-##3.- Comienza a maquetar
+## 3.- Comienza a maquetar
 
-#Componente en el paquete
+# Componente en el paquete
 
  * Bootstrap4
  * Font Awesome 4.7
 
-#Estructura de archivos
+# Estructura de archivos
 
 ```
   plantilla
